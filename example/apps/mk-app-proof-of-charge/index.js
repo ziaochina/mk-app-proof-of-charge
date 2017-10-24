@@ -5,7 +5,7 @@ import MoneyCell from './components/moneyCell'
 
 export default {
 	name: "mk-app-proof-of-charge",
-	version: "1.0.2",
+	version: "1.0.0",
 	description: "mk-app-proof-of-charge",
 	meta: data.getMeta(),
 	components: [{

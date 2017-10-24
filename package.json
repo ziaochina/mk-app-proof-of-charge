@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/ziaochina/mk-app-proof-of-charge/issues"
   },
-  "homepage": "https://github.com/ziaochina/mk-app-proof-of-charge#readme"
+  "homepage": "https://github.com/ziaochina/mk-app-proof-of-charge#readme",
+  "dependencies": {}
 }
