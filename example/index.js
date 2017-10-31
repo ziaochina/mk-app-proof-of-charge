@@ -2,6 +2,10 @@ import { config, start, componentFactory } from 'mk-meta-engine'
 import * as mkComponents from 'mk-component'
 import myConfig  from './config'
 
+var aa = mkComponents
+
+debugger
+
 import mk_app_proof_of_charge from './apps/mk-app-proof-of-charge/index.js'
 
 const apps = {

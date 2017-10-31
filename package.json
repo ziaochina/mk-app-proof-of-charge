@@ -1,6 +1,6 @@
 {
   "name": "mk-app-proof-of-charge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "记账凭证",
   "main": "index.js",
   "directories": {
